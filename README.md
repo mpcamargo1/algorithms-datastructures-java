@@ -29,15 +29,15 @@ NumberIslands/
 
 ## 🏷️ Temas abordados
 
-✅ Arrays
-✅ Strings 
-✅ Linked Lists
-✅ Stacks & Queues
-✅ Binary Trees
-✅ Binary Search
-✅ Hash Table
-✅ Two Pointers
-✅ Recursion & Backtracking
+- ✅ Arrays
+- ✅ Strings 
+- ✅ Linked Lists
+- ✅ Stacks & Queues
+- ✅ Binary Trees
+- ✅ Binary Search
+- ✅ Hash Table
+- ✅ Two Pointers
+- ✅ Recursion & Backtracking
 
 ---
 
