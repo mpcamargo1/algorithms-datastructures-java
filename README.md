@@ -30,12 +30,12 @@ NumberIslands/
 ## 🏷️ Temas abordados
 
 ✅ Arrays
-✅ Strings
+✅ Strings 
 ✅ Linked Lists
 ✅ Stacks & Queues
-✅ Binary Trees 
+✅ Binary Trees
 ✅ Binary Search
-✅ Hash Table 
+✅ Hash Table
 ✅ Two Pointers
 ✅ Recursion & Backtracking
 
