@@ -45,8 +45,8 @@ NumberIslands/
 
 Lista de problemas resolvidos até o momento (em atualização):
 
-- [x] [LRU Cache]([https://leetcode.com/problems/lru-cache](LRUCache)
-- [x] [Reorder Data in Log Files] (https://leetcode.com/problems/reorder-data-in-log-files)
+- [x] [LRU Cache](https://leetcode.com/problems/lru-cache)
+- [x] [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files)
 - [x] [Number of Islands](https://leetcode.com/problems/number-of-islands)
 - [x] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)
 - [x] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
