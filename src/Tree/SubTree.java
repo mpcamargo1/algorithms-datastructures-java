@@ -8,10 +8,10 @@ public class SubTree {
         this.node = node;
     }
 
-
     public boolean isSubTree(TreeNode subRoot) {
         return isSubTree(node, subRoot);
     }
+
     private boolean isSubTree(TreeNode node, TreeNode subRoot) {
         if (node == null) {
             return false;
