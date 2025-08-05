@@ -52,7 +52,8 @@ Lista de problemas resolvidos até o momento (em atualização):
 - [x] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
 - [x] [Min Stack](https://leetcode.com/problems/min-stack)
 - [x] [SubTree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)
-
+- [x] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)
+- [x] [Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string)
 ---
 
 ## ⚖️ Licença
