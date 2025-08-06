@@ -55,6 +55,7 @@ Lista de problemas resolvidos até o momento (em atualização):
 - [x] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)
 - [x] [Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string)
 - [x] [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
+- [x] [Binary Tree Search Iterator](https://leetcode.com/problems/binary-search-tree-iterator)
 ---
 
 ## ⚖️ Licença
