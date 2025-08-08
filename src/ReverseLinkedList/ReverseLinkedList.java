@@ -31,7 +31,6 @@ public class ReverseLinkedList {
        }
 
        nodeReversed.setNext(new ListNode(previous.getVal()));
-dev 
        return nodeReversed.getNext();
     }
 
