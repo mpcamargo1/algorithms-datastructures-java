@@ -56,6 +56,9 @@ Lista de problemas resolvidos até o momento (em atualização):
 - [x] [Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string)
 - [x] [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
 - [x] [Binary Tree Search Iterator](https://leetcode.com/problems/binary-search-tree-iterator)
+- [x] [Design HashMap](https://leetcode.com/problems/design-hashmap/description/)
+- [X] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+
 ---
 
 ## ⚖️ Licença
