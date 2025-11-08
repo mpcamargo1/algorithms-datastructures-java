@@ -58,6 +58,7 @@ Lista de problemas resolvidos até o momento (em atualização):
 - [x] [Binary Tree Search Iterator](https://leetcode.com/problems/binary-search-tree-iterator)
 - [x] [Design HashMap](https://leetcode.com/problems/design-hashmap/description/)
 - [X] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+- [X] [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)
 
 ---
 
