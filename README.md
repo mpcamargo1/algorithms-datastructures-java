@@ -59,6 +59,7 @@ Lista de problemas resolvidos até o momento (em atualização):
 - [x] [Design HashMap](https://leetcode.com/problems/design-hashmap/description/)
 - [X] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 - [X] [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)
+- [X] [Merge Two Binary Tress](https://leetcode.com/problems/merge-two-binary-trees/description/)
 
 ---
 
